@@ -1,125 +1,86 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1F33,35:123A63,70:1B75D0,100:D7A94B&text=Uwais%20Salam&fontSize=48&fontColor=F8FAFC&fontAlignY=36&desc=Enterprise%20Delivery%20Leader%20for%20ERP,%20Integrations,%20Reporting,%20Cloud,%20and%20Infrastructure&descSize=17&descColor=E2E8F0&descAlignY=56&animation=fadeIn" width="100%" />
+<img src="./assets/profile-hero.svg" alt="Uwais Salam profile banner" width="100%" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=2500&pause=3500&color=D7A94B&center=true&vCenter=true&repeat=true&width=320&height=58&lines=DELIVER." alt="Deliver." />
+<strong>I turn business complexity into working systems.</strong>
 
-<p><strong>I turn business complexity into working systems.</strong></p>
+<br /><br />
 
-<p>ERP delivery | system integration | SQL and SSRS reporting | AWS serverless systems | Windows infrastructure</p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uwaissalam/)
-[![GitHub](https://img.shields.io/badge/GitHub-Ublaze-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ublaze)
-[![Email](https://img.shields.io/badge/Email-ublaze%40gmail.com-B91C1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ublaze@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Ublaze&style=for-the-badge&color=1B75D0&label=PROFILE+VIEWS)](https://github.com/Ublaze)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Uwais%20Salam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uwaissalam/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ublaze-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ublaze)
+[![Email](https://img.shields.io/badge/Email-salamuwais%40gmail.com-B91C1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salamuwais@gmail.com)
 
 </div>
-
-<table>
-<tr>
-<td width="58%" valign="top">
 
 ## Profile
 
 I lead enterprise delivery across ERP, integrations, reporting, cloud, and infrastructure.
 
-My core lane is taking messy, high-stakes business processes and turning them into systems that are clear, reliable, and usable - from the first workshop to the final deployment.
+My core strength is operating at the seam between business and technology: understanding the real-world process, shaping the solution, driving execution, and getting hands-on when the system needs it.
 
 Across 100+ projects, I have worked on:
 
-- Sage 300, Sage X3, Dynamics, and NAV programs
-- API and sync work around orders, invoices, customers, and master data
-- SQL Server and SSRS dashboards for commercial and operational teams
-- AWS-backed portals, automation layers, and serverless APIs
-- Windows Server, IIS, VPN, firewall, and deployment support
-- client guides, health checks, recovery work, and adoption support
+- ERP delivery across Sage 300, Sage X3, Dynamics, and NAV
+- API and sync work for orders, invoices, customers, inventory, and master data
+- SQL Server and SSRS reporting for commercial, finance, and operations teams
+- AWS-backed portals, serverless APIs, and automation layers
+- Windows Server, IIS, VPN, firewall, deployment, and support work
+- client-facing guides, health checks, recovery plans, and adoption support
 
-If the job needs someone who can understand the business, shape the system, drive the delivery, and still get hands-on when it matters, that is the lane I work in.
+> Much of my enterprise delivery footprint lives in private repos, client servers, and protected environments, so this GitHub profile shows the builder side of my work more than the full delivery volume.
 
-</td>
-<td width="42%" valign="top">
+<div align="center">
+<img src="./assets/profile-map.svg" alt="Operating areas across ERP, integrations, reporting, and infrastructure" width="100%" />
+</div>
 
-## Snapshot
-
-- 15+ years in ERP and enterprise delivery
-- 100+ projects across client, internal, and product work
-- Based in Dubai, working across MEA and beyond
-- Strong in SQL Server, SSRS, Python, PowerShell, AWS, and Windows Server
-- Delivery style: business-aware, technically hands-on, execution-focused
-
-### Current Focus
-
-- ERP modernization
-- API design and system integration
-- reporting and data visibility
-- automation and AI-assisted delivery
-- infrastructure reliability
-
-</td>
-</tr>
-</table>
-
-> Most enterprise delivery work lives in private repos, client servers, and protected environments, so the public GitHub view shows the builder side of my work more than the full delivery footprint.
-
-## Operating Areas
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## What I Actually Do
 
 ### ERP Delivery
 
-- end-to-end implementation leadership
-- fit-gap analysis and process translation
-- project recovery and ERP health checks
-- stakeholder alignment from presales to go-live
-
-</td>
-<td width="50%" valign="top">
+- lead implementations from discovery to go-live
+- run fit-gap, process translation, and execution planning
+- recover at-risk projects and run ERP health checks
+- align client, delivery, and technical teams around outcomes
 
 ### Integrations and APIs
 
-- Sage-centered integration design
-- REST APIs and sync engines
-- customer, order, invoice, and inventory flows
-- AWS Lambda, API Gateway, DynamoDB, S3, and CloudFront
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+- design Sage-centered integration flows
+- build REST APIs and sync engines
+- expose ERP data to portals, dashboards, and partner systems
+- work across AWS Lambda, API Gateway, DynamoDB, S3, and CloudFront
 
 ### Reporting and Data
 
-- SQL Server reporting layers
-- branded SSRS portals and dashboards
-- executive sales and finance reporting
-- documentation and guides teams can actually use
-
-</td>
-<td width="50%" valign="top">
+- build SQL Server reporting layers
+- design and brand SSRS portals and dashboards
+- improve commercial visibility for leadership teams
+- create guides and structured documentation users can follow
 
 ### Infrastructure and Automation
 
-- Windows Server, IIS, VPN, firewall, and RDP hardening
-- zero-touch deployments and admin tooling
-- PowerShell and Python automation
-- AI-assisted workflows where they genuinely improve delivery
-
-</td>
-</tr>
-</table>
+- work on Windows Server, IIS, VPN, firewall, and remote access setups
+- build PowerShell and Python automation for delivery and operations
+- harden deployment flows and reduce manual steps
+- use AI-assisted workflows where they genuinely improve speed and quality
 
 ## Signature Work
 
-- Delivered ERP programs and integration tracks around Sage 300 and Sage X3, including customer, order, invoice, and reporting flows.
-- Built client-facing portals, budget tools, dashboards, and reconciliation workflows on top of enterprise data.
-- Designed branded SSRS reporting experiences and SQL-backed commercial dashboards for leadership visibility.
-- Shipped AWS-backed APIs and sync services that expose ERP data without forcing teams to live inside the ERP.
-- Produced operational guides, recovery plans, and health-check material that help delivery survive beyond go-live.
-- Built public tools like Caffeinator and Windows11-Optimizer, which show the same delivery mindset in product form.
+- Delivered ERP programs and integration tracks around Sage 300 and Sage X3.
+- Built portals, budget tools, reconciliation workflows, and reporting layers on top of enterprise data.
+- Shipped branded SSRS reporting experiences and SQL-backed commercial dashboards.
+- Built AWS-backed APIs and sync services that help teams work beyond the ERP interface.
+- Produced operational guides, recovery material, and structured delivery documentation.
+- Built public software products that reflect the same delivery mindset in product form.
+
+## Public Builds
+
+| Project | What It Shows |
+| --- | --- |
+| [Caffeinator](https://github.com/Ublaze/Caffeinator) | Windows utility design, native API thinking, product polish |
+| [Windows11-Optimizer](https://github.com/Ublaze/Windows11-Optimizer) | PowerShell automation, systems thinking, safe optimization |
+| [YTune](https://github.com/Ublaze/YTune) | Product building beyond ERP, mobile and Kotlin work |
 
 ## Toolbox
 
@@ -144,38 +105,6 @@ If the job needs someone who can understand the business, shape the system, driv
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111827?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7C3AED?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-111827?style=for-the-badge&logo=anthropic&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-Building-0F766E?style=for-the-badge)
-
-</div>
-
-## Featured Builds
-
-<div align="center">
-
-<a href="https://github.com/Ublaze/Caffeinator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ublaze&repo=Caffeinator&bg_color=0B1F33&border_color=123A63&title_color=D7A94B&icon_color=93C5FD&text_color=E2E8F0" />
-</a>
-<a href="https://github.com/Ublaze/Windows11-Optimizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ublaze&repo=Windows11-Optimizer&bg_color=0B1F33&border_color=123A63&title_color=D7A94B&icon_color=93C5FD&text_color=E2E8F0" />
-</a>
-
-<br />
-
-<a href="https://github.com/Ublaze/YTune">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ublaze&repo=YTune&bg_color=0B1F33&border_color=123A63&title_color=D7A94B&icon_color=93C5FD&text_color=E2E8F0" />
-</a>
-
-</div>
-
-## GitHub Snapshot
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ublaze&show_icons=true&bg_color=0B1F33&border_color=123A63&title_color=D7A94B&icon_color=93C5FD&text_color=E2E8F0&count_private=true" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ublaze&bg_color=0B1F33&color=E2E8F0&line=1B75D0&point=D7A94B&area_color=123A63&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
 
 </div>
 
@@ -184,7 +113,6 @@ If the job needs someone who can understand the business, shape the system, driv
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uwaissalam/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ublaze)
-[![Email](https://img.shields.io/badge/Email-ublaze%40gmail.com-B91C1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ublaze@gmail.com)
+[![Email](https://img.shields.io/badge/Email-salamuwais%40gmail.com-B91C1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salamuwais@gmail.com)
 
 </div>

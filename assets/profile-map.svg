@@ -1,0 +1,30 @@
+<svg width="1280" height="340" viewBox="0 0 1280 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="340" rx="24" fill="#0F172A"/>
+  <text x="60" y="64" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Operating areas</text>
+  <text x="60" y="94" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="500">The profile is strongest when it reflects the full operating range, not only the functional title.</text>
+
+  <rect x="60" y="132" width="270" height="152" rx="20" fill="#13263F" stroke="#204B78"/>
+  <rect x="360" y="132" width="270" height="152" rx="20" fill="#13263F" stroke="#204B78"/>
+  <rect x="660" y="132" width="270" height="152" rx="20" fill="#13263F" stroke="#204B78"/>
+  <rect x="960" y="132" width="260" height="152" rx="20" fill="#13263F" stroke="#204B78"/>
+
+  <text x="84" y="168" fill="#D7A94B" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">ERP Delivery</text>
+  <text x="84" y="198" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">Implementations, fit-gap,</text>
+  <text x="84" y="220" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">recovery work, health checks,</text>
+  <text x="84" y="242" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">stakeholder alignment</text>
+
+  <text x="384" y="168" fill="#D7A94B" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Integrations and APIs</text>
+  <text x="384" y="198" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">Orders, invoices, customers,</text>
+  <text x="384" y="220" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">inventory, sync engines,</text>
+  <text x="384" y="242" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">AWS-backed service layers</text>
+
+  <text x="684" y="168" fill="#D7A94B" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Reporting and Data</text>
+  <text x="684" y="198" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">SQL Server, SSRS, dashboards,</text>
+  <text x="684" y="220" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">commercial visibility,</text>
+  <text x="684" y="242" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">guides teams can actually use</text>
+
+  <text x="984" y="168" fill="#D7A94B" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Infrastructure</text>
+  <text x="984" y="198" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">Windows Server, IIS, VPN,</text>
+  <text x="984" y="220" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">firewall, automation,</text>
+  <text x="984" y="242" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">deployment hardening</text>
+</svg>

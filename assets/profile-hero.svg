@@ -1,0 +1,49 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="84" y1="40" x2="1180" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1F33"/>
+      <stop offset="0.45" stop-color="#123A63"/>
+      <stop offset="0.78" stop-color="#1B75D0"/>
+      <stop offset="1" stop-color="#D7A94B"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="860" y1="42" x2="1160" y2="332" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
+  <circle cx="1100" cy="72" r="178" fill="#FFFFFF" fill-opacity="0.05"/>
+  <circle cx="1030" cy="325" r="118" fill="#FFFFFF" fill-opacity="0.06"/>
+  <circle cx="152" cy="338" r="146" fill="#FFFFFF" fill-opacity="0.04"/>
+
+  <rect x="760" y="48" width="450" height="280" rx="22" fill="url(#panel)" stroke="#FFFFFF" stroke-opacity="0.16"/>
+
+  <text x="84" y="118" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700">Uwais Salam</text>
+  <text x="84" y="164" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Enterprise Delivery across ERP, Integrations, Reporting,</text>
+  <text x="84" y="196" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Cloud, and Infrastructure</text>
+
+  <text x="84" y="246" fill="#D7A94B" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">DELIVER.</text>
+  <text x="182" y="246" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="500">15+ years | 100+ projects | Dubai</text>
+
+  <rect x="84" y="286" width="166" height="38" rx="19" fill="#F8FAFC" fill-opacity="0.14"/>
+  <rect x="264" y="286" width="154" height="38" rx="19" fill="#F8FAFC" fill-opacity="0.14"/>
+  <rect x="432" y="286" width="150" height="38" rx="19" fill="#F8FAFC" fill-opacity="0.14"/>
+  <rect x="596" y="286" width="138" height="38" rx="19" fill="#F8FAFC" fill-opacity="0.14"/>
+
+  <text x="112" y="311" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">ERP Delivery</text>
+  <text x="293" y="311" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Integrations</text>
+  <text x="468" y="311" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Reporting</text>
+  <text x="629" y="311" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Cloud</text>
+
+  <text x="800" y="102" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">How I work</text>
+
+  <rect x="800" y="126" width="370" height="48" rx="14" fill="#FFFFFF" fill-opacity="0.08"/>
+  <rect x="800" y="186" width="370" height="48" rx="14" fill="#FFFFFF" fill-opacity="0.08"/>
+  <rect x="800" y="246" width="370" height="48" rx="14" fill="#FFFFFF" fill-opacity="0.08"/>
+
+  <text x="822" y="155" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Understand the business problem</text>
+  <text x="822" y="215" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Shape the system and delivery path</text>
+  <text x="822" y="275" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Stay hands-on until it works</text>
+  <text x="822" y="338" fill="#D7A94B" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Business-aware | Technical | Execution-focused</text>
+</svg>
