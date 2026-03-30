@@ -1,0 +1,25 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="360" rx="24" fill="#0F172A"/>
+  <rect x="46" y="42" width="1188" height="272" rx="22" fill="#13263F" stroke="#204B78"/>
+
+  <text x="80" y="92" fill="#D7A94B" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Profile</text>
+  <text x="80" y="132" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600">I lead enterprise delivery across ERP, integrations, reporting, cloud, and infrastructure.</text>
+  <text x="80" y="166" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="500">My strength is operating at the seam between business and technology:</text>
+  <text x="80" y="190" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="500">understanding the real-world process, shaping the solution, driving execution, and getting hands-on when needed.</text>
+
+  <rect x="80" y="226" width="164" height="36" rx="18" fill="#0F6CBD"/>
+  <rect x="258" y="226" width="160" height="36" rx="18" fill="#0F6CBD"/>
+  <rect x="432" y="226" width="132" height="36" rx="18" fill="#0F6CBD"/>
+  <rect x="578" y="226" width="176" height="36" rx="18" fill="#0F6CBD"/>
+  <rect x="768" y="226" width="176" height="36" rx="18" fill="#0F6CBD"/>
+  <rect x="958" y="226" width="172" height="36" rx="18" fill="#0F6CBD"/>
+
+  <text x="108" y="249" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">ERP Delivery</text>
+  <text x="289" y="249" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">API and Sync</text>
+  <text x="467" y="249" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">SQL and SSRS</text>
+  <text x="612" y="249" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">AWS Portals</text>
+  <text x="800" y="249" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Windows Infra</text>
+  <text x="994" y="249" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Client Guidance</text>
+
+  <text x="80" y="294" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">100+ projects across delivery, product, integration, reporting, automation, and operational support.</text>
+</svg>

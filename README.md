@@ -16,18 +16,9 @@
 
 ## Profile
 
-I lead enterprise delivery across ERP, integrations, reporting, cloud, and infrastructure.
-
-My core strength is operating at the seam between business and technology: understanding the real-world process, shaping the solution, driving execution, and getting hands-on when the system needs it.
-
-Across 100+ projects, I have worked on:
-
-- ERP delivery across Sage 300, Sage X3, Dynamics, and NAV
-- API and sync work for orders, invoices, customers, inventory, and master data
-- SQL Server and SSRS reporting for commercial, finance, and operations teams
-- AWS-backed portals, serverless APIs, and automation layers
-- Windows Server, IIS, VPN, firewall, deployment, and support work
-- client-facing guides, health checks, recovery plans, and adoption support
+<div align="center">
+<img src="./assets/profile-summary.svg" alt="Profile summary card" width="100%" />
+</div>
 
 > Much of my enterprise delivery footprint lives in private repos, client servers, and protected environments, so this GitHub profile shows the builder side of my work more than the full delivery volume.
 
