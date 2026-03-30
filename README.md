@@ -3,9 +3,14 @@
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=230&section=header&text=Uwais%20Salam&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Head%20of%20Deliveries%20%7C%20ERP%20%7C%20API%20Development%20%7C%20AI%20%26%20Cloud&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
+<!-- ONE WORD -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=2000&pause=3000&color=58A6FF&center=true&vCenter=true&repeat=true&width=300&height=60&lines=Deliver." alt="Deliver." />
+
+<br/>
+
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=15%2B+years+turning+ERP+complexity+into+clean+deliveries;Building+APIs+that+make+enterprise+data+accessible;Exploring+AI+%C2%B7+Automating+everything+in+between" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=15%2B+years+turning+ERP+complexity+into+clean+deliveries;100%2B+projects+%E2%80%94+ERPs+%C2%B7+APIs+%C2%B7+Cloud+%C2%B7+AI+%C2%B7+Infrastructure;Building+what+enterprises+need+but+don't+know+how+to+ask+for" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,9 +26,11 @@
 
 ## `> whoami`
 
-I'm a **Head of Deliveries** in the ERP domain with over **15 years** of hands-on experience across **Sage 300**, **Sage X3**, **Dynamics**, and **NAV**. I've spent my career making sure enterprise implementations actually ship — on time, configured right, and built to last.
+I'm a **Head of Deliveries** in the ERP domain with over **15 years** of hands-on experience across **Sage 300**, **Sage X3**, **Dynamics**, and **NAV** — and **100+ projects** that prove delivery isn't just a title.
 
-But I don't stop at ERPs. I'm actively pushing into **API integrations and development**, building serverless backends and real-time sync pipelines that turn locked-up ERP data into accessible, modern services. I keep a close eye on the **AI space** — leveraging tools like **Claude Code** to accelerate how I build, review, and ship. And underneath it all, I'm deep into **Windows and server architecture** — the infrastructure layer that keeps everything running.
+I've led end-to-end ERP implementations, built **seller portals** and **budget dashboards** on top of legacy data, wired up **Shopify**, **Asana**, **Pemo**, and **Zoho** into Sage backends via custom APIs, and deployed **SSRS reporting suites** across multi-company environments. When a Sri Lanka Cricket Board needs an ERP health check or a logistics company needs invoice sync to AWS — that's my lane.
+
+But I don't stop at ERPs. I'm actively building **serverless APIs** on AWS (Lambda, DynamoDB, API Gateway, CloudFront), writing **Python and PowerShell automation** that eliminates manual work, and shipping **open-source tools** like system optimizers and sleep-prevention utilities. I keep a close eye on the **AI space** — leveraging **Claude Code** daily to accelerate how I build, review, and ship. And underneath it all, I architect on **Windows Server infrastructure** — firewalls, SSRS over SSL, VPN configs, zero-touch deployment scripts.
 
 I believe the best delivery leaders write code, understand the stack, and stay dangerously curious.
 
@@ -32,6 +39,7 @@ name: Uwais Salam
 role: Head of Deliveries — ERP & Enterprise Systems
 company: RFR Group
 location: Dubai, UAE
+projects: 100+
 
 erp_platforms:
   - Sage 300
@@ -39,14 +47,25 @@ erp_platforms:
   - Microsoft Dynamics
   - Microsoft NAV
 
-exploring:
-  - API integrations & development
+building:
+  - API integrations & serverless backends (AWS)
   - AI-assisted engineering (Claude Code)
-  - Windows & server architecture
-  - Cloud-native ERP extensions
+  - Windows Server & infrastructure architecture
+  - Cloud-native ERP extensions & portals
+  - Open-source system utilities
 
 philosophy: "Ship it. Then make it better."
 ```
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| **100+** projects delivered | **15+** years in ERP |
+| **5** ERP platforms | **6** AWS services in production |
+| **3** open-source tools | **1** word: *Deliver* |
+
+</div>
 
 <br/>
 
@@ -102,18 +121,39 @@ philosophy: "Ship it. Then make it better."
 
 ### ERP Delivery & Integration
 - Lead **end-to-end ERP implementations** across Sage 300, X3, Dynamics, and NAV
-- Design and build **real-time sync pipelines** between ERPs and cloud services
-- Develop **REST APIs** (AWS Lambda + DynamoDB + API Gateway) to expose ERP data as modern services
-- Build **portals**, **dashboards**, and **reconciliation engines** on top of enterprise data
+- Build **real-time sync pipelines** — Shopify, Asana, Pemo, Zoho CRM into Sage backends
+- Develop **seller portals**, **budget tools**, and **vendor-customer reconciliation engines**
+- Deploy **branded SSRS reporting suites** across multi-company, multi-region setups
+- Architect **biometric attendance systems** with cross-server sync and automated dashboards
 
 </td>
 <td width="50%" valign="top">
 
-### Beyond ERP
-- Build and consume **APIs** — turning closed enterprise systems into open, integrated platforms
-- Leverage **AI-assisted development** with Claude Code to accelerate delivery and code quality
-- Architect on **Windows Server & infrastructure** — SSRS, IIS, networking, zero-touch deployments
-- Ship **open-source tools** — system utilities, optimizers, and automation scripts
+### API Development & Cloud
+- Design and ship **REST APIs** on AWS — Lambda, API Gateway, DynamoDB, S3, CloudFront
+- Build **serverless invoice sync**, **ledger APIs**, and **inventory endpoints** for enterprise clients
+- Create **Terraform-managed infrastructure** with multi-environment deployment (dev/UAT/prod)
+- Write **zero-touch deployment scripts** — one-liner installs from S3/CloudFront
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### AI & Automation
+- Leverage **Claude Code** daily for AI-assisted development, code review, and rapid prototyping
+- Build **Python & PowerShell automation** — tender scanners, file sync, safety stock alerts, VPN fixes
+- Generate **multilingual TTS voiceovers** and **dynamic content** with AI pipelines
+- Automate **database audits**, **schema diagnostics**, and **backup orchestration**
+
+</td>
+<td width="50%" valign="top">
+
+### Infrastructure & Open Source
+- Architect **Windows Server environments** — SSRS over SSL, IIS, firewall rules, RDP hardening
+- Configure **enterprise VPN** (Cisco, OpenVPN Cloud) with session monitoring and compliance reports
+- Ship **open-source tools** — Caffeinator (sleep prevention), Windows11-Optimizer, YTune
+- Build **system utilities** with clean UIs, tray integration, and Win32 power APIs
 
 </td>
 </tr>
