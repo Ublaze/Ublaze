@@ -1,44 +1,35 @@
 <svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="74" y1="64" x2="950" y2="938" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#10263D"/>
-      <stop offset="0.55" stop-color="#1D5DA2"/>
+    <linearGradient id="bg" x1="92" y1="72" x2="944" y2="948" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1F33"/>
+      <stop offset="0.48" stop-color="#123A63"/>
+      <stop offset="0.8" stop-color="#1B75D0"/>
       <stop offset="1" stop-color="#D7A94B"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(774 282) rotate(123.293) scale(430.346)">
-      <stop stop-color="#FFFFFF" stop-opacity="0.20"/>
+    <radialGradient id="goldGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(850 210) rotate(125.2) scale(410 360)">
+      <stop stop-color="#F7D38A" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#F7D38A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blueGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(262 802) rotate(90) scale(300 280)">
+      <stop stop-color="#FFFFFF" stop-opacity="0.10"/>
       <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
     </radialGradient>
   </defs>
 
   <rect width="1024" height="1024" rx="180" fill="url(#bg)"/>
-  <circle cx="820" cy="228" r="242" fill="url(#glow)"/>
-  <circle cx="190" cy="764" r="190" fill="#FFFFFF" fill-opacity="0.05"/>
+  <circle cx="846" cy="204" r="246" fill="url(#goldGlow)"/>
+  <circle cx="250" cy="814" r="236" fill="url(#blueGlow)"/>
 
-  <text x="96" y="194" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="66" font-weight="700">Uwais Salam</text>
-  <text x="96" y="256" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="600">Enterprise Delivery</text>
-  <text x="96" y="300" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="600">ERP | Integration | Reporting</text>
+  <rect x="118" y="180" width="788" height="664" rx="64" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.16"/>
+  <rect x="176" y="242" width="672" height="548" rx="44" fill="#0E2034" fill-opacity="0.34"/>
 
-  <text x="96" y="388" fill="#D7A94B" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800">DELIVER.</text>
-  <text x="322" y="388" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="600">15+ years | 100+ projects | Dubai</text>
+  <circle cx="512" cy="420" r="66" fill="#F8FAFC" fill-opacity="0.12"/>
+  <circle cx="512" cy="420" r="46" fill="#F8FAFC" fill-opacity="0.10"/>
+  <path d="M486 418C486 404.193 497.193 393 511 393H513C526.807 393 538 404.193 538 418V422C538 435.807 526.807 447 513 447H511C497.193 447 486 435.807 486 422V418Z" fill="#D7A94B"/>
+  <path d="M474 476C474 457.222 489.222 442 508 442H516C534.778 442 550 457.222 550 476V486H474V476Z" fill="#D7A94B"/>
 
-  <rect x="96" y="456" width="220" height="54" rx="27" fill="#F8FAFC" fill-opacity="0.14"/>
-  <rect x="334" y="456" width="198" height="54" rx="27" fill="#F8FAFC" fill-opacity="0.14"/>
-  <rect x="550" y="456" width="188" height="54" rx="27" fill="#F8FAFC" fill-opacity="0.14"/>
-  <text x="138" y="491" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="600">ERP Delivery</text>
-  <text x="383" y="491" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="600">Integrations</text>
-  <text x="613" y="491" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="600">Reporting</text>
+  <text x="512" y="596" text-anchor="middle" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="92" font-weight="700">Uwais</text>
+  <text x="512" y="692" text-anchor="middle" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="92" font-weight="700">Salam</text>
 
-  <rect x="598" y="140" width="322" height="344" rx="34" fill="#FFFFFF" fill-opacity="0.10" stroke="#FFFFFF" stroke-opacity="0.12"/>
-  <text x="640" y="210" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="700">How I work</text>
-
-  <rect x="640" y="256" width="240" height="62" rx="18" fill="#FFFFFF" fill-opacity="0.10"/>
-  <rect x="640" y="342" width="240" height="62" rx="18" fill="#FFFFFF" fill-opacity="0.10"/>
-  <rect x="640" y="428" width="240" height="62" rx="18" fill="#FFFFFF" fill-opacity="0.10"/>
-  <text x="674" y="294" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">Understand</text>
-  <text x="674" y="380" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">Shape</text>
-  <text x="674" y="466" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">Deliver</text>
-
-  <text x="152" y="878" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">I turn business complexity</text>
-  <text x="152" y="922" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">into working systems.</text>
+  <rect x="346" y="730" width="332" height="8" rx="4" fill="#D7A94B"/>
 </svg>
