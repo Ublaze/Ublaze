@@ -1,0 +1,44 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="74" y1="64" x2="950" y2="938" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10263D"/>
+      <stop offset="0.55" stop-color="#1D5DA2"/>
+      <stop offset="1" stop-color="#D7A94B"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(774 282) rotate(123.293) scale(430.346)">
+      <stop stop-color="#FFFFFF" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1024" height="1024" rx="180" fill="url(#bg)"/>
+  <circle cx="820" cy="228" r="242" fill="url(#glow)"/>
+  <circle cx="190" cy="764" r="190" fill="#FFFFFF" fill-opacity="0.05"/>
+
+  <text x="96" y="194" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="66" font-weight="700">Uwais Salam</text>
+  <text x="96" y="256" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="600">Enterprise Delivery</text>
+  <text x="96" y="300" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="600">ERP | Integration | Reporting</text>
+
+  <text x="96" y="388" fill="#D7A94B" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800">DELIVER.</text>
+  <text x="322" y="388" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="600">15+ years | 100+ projects | Dubai</text>
+
+  <rect x="96" y="456" width="220" height="54" rx="27" fill="#F8FAFC" fill-opacity="0.14"/>
+  <rect x="334" y="456" width="198" height="54" rx="27" fill="#F8FAFC" fill-opacity="0.14"/>
+  <rect x="550" y="456" width="188" height="54" rx="27" fill="#F8FAFC" fill-opacity="0.14"/>
+  <text x="138" y="491" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="600">ERP Delivery</text>
+  <text x="383" y="491" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="600">Integrations</text>
+  <text x="613" y="491" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="600">Reporting</text>
+
+  <rect x="598" y="140" width="322" height="344" rx="34" fill="#FFFFFF" fill-opacity="0.10" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <text x="640" y="210" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="700">How I work</text>
+
+  <rect x="640" y="256" width="240" height="62" rx="18" fill="#FFFFFF" fill-opacity="0.10"/>
+  <rect x="640" y="342" width="240" height="62" rx="18" fill="#FFFFFF" fill-opacity="0.10"/>
+  <rect x="640" y="428" width="240" height="62" rx="18" fill="#FFFFFF" fill-opacity="0.10"/>
+  <text x="674" y="294" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">Understand</text>
+  <text x="674" y="380" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">Shape</text>
+  <text x="674" y="466" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">Deliver</text>
+
+  <text x="152" y="878" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">I turn business complexity</text>
+  <text x="152" y="922" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">into working systems.</text>
+</svg>

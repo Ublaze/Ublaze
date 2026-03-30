@@ -14,6 +14,11 @@
 
 </div>
 
+<div align="center">
+<sub>Suggested GitHub avatar:</sub><br />
+<img src="./assets/avatar-profile-brand.png" alt="Suggested profile avatar" width="220" />
+</div>
+
 ## Profile
 
 <div align="center">
