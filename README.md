@@ -1,242 +1,190 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=230&section=header&text=Uwais%20Salam&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Head%20of%20Deliveries%20%7C%20ERP%20%7C%20API%20Development%20%7C%20AI%20%26%20Cloud&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1F33,35:123A63,70:1B75D0,100:D7A94B&text=Uwais%20Salam&fontSize=48&fontColor=F8FAFC&fontAlignY=36&desc=Enterprise%20Delivery%20Leader%20for%20ERP,%20Integrations,%20Reporting,%20Cloud,%20and%20Infrastructure&descSize=17&descColor=E2E8F0&descAlignY=56&animation=fadeIn" width="100%" />
 
-<!-- ONE WORD -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=2000&pause=3000&color=58A6FF&center=true&vCenter=true&repeat=true&width=300&height=60&lines=Deliver." alt="Deliver." />
+<br />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=2500&pause=3500&color=D7A94B&center=true&vCenter=true&repeat=true&width=320&height=58&lines=DELIVER." alt="Deliver." />
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=15%2B+years+turning+ERP+complexity+into+clean+deliveries;100%2B+projects+%E2%80%94+ERPs+%C2%B7+APIs+%C2%B7+Cloud+%C2%B7+AI+%C2%B7+Infrastructure;Building+what+enterprises+need+but+don't+know+how+to+ask+for" alt="Typing SVG" />
-</a>
+<p><strong>I turn business complexity into working systems.</strong></p>
 
-<br/>
+<p>ERP delivery | system integration | SQL and SSRS reporting | AWS serverless systems | Windows infrastructure</p>
 
-<!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uwaissalam/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ublaze)
-[![Profile Views](https://komarev.com/ghpvc/?username=Ublaze&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS)](https://github.com/Ublaze)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uwaissalam/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ublaze-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ublaze)
+[![Email](https://img.shields.io/badge/Email-ublaze%40gmail.com-B91C1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ublaze@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ublaze&style=for-the-badge&color=1B75D0&label=PROFILE+VIEWS)](https://github.com/Ublaze)
 
 </div>
-
----
-
-## `> whoami`
-
-I'm a **Head of Deliveries** in the ERP domain with over **15 years** of hands-on experience across **Sage 300**, **Sage X3**, **Dynamics**, and **NAV** — and **100+ projects** that prove delivery isn't just a title.
-
-I've led end-to-end ERP implementations, built **seller portals** and **budget dashboards** on top of legacy data, wired up **Shopify**, **Asana**, **Pemo**, and **Zoho** into Sage backends via custom APIs, and deployed **SSRS reporting suites** across multi-company environments. When a Sri Lanka Cricket Board needs an ERP health check or a logistics company needs invoice sync to AWS — that's my lane.
-
-But I don't stop at ERPs. I'm actively building **serverless APIs** on AWS (Lambda, DynamoDB, API Gateway, CloudFront), writing **Python and PowerShell automation** that eliminates manual work, and shipping **open-source tools** like system optimizers and sleep-prevention utilities. I keep a close eye on the **AI space** — leveraging **Claude Code** daily to accelerate how I build, review, and ship. And underneath it all, I architect on **Windows Server infrastructure** — firewalls, SSRS over SSL, VPN configs, zero-touch deployment scripts.
-
-I believe the best delivery leaders write code, understand the stack, and stay dangerously curious.
-
-```yaml
-name: Uwais Salam
-role: Head of Deliveries — ERP & Enterprise Systems
-company: RFR Group
-location: Dubai, UAE
-projects: 100+
-
-erp_platforms:
-  - Sage 300
-  - Sage X3
-  - Microsoft Dynamics
-  - Microsoft NAV
-
-building:
-  - API integrations & serverless backends (AWS)
-  - AI-assisted engineering (Claude Code)
-  - Windows Server & infrastructure architecture
-  - Cloud-native ERP extensions & portals
-  - Open-source system utilities
-
-philosophy: "Ship it. Then make it better."
-```
-
-<div align="center">
-
-| | |
-|:---:|:---:|
-| **100+** projects delivered | **15+** years in ERP |
-| **5** ERP platforms | **6** AWS services in production |
-| **3** open-source tools | **1** word: *Deliver* |
-
-</div>
-
-<br/>
-
-## Tech Stack
-
-<div align="center">
-
-### Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### ERP & Databases
-![Sage 300](https://img.shields.io/badge/Sage%20300-00DC00?style=for-the-badge&logo=sage&logoColor=white)
-![Sage X3](https://img.shields.io/badge/Sage%20X3-00DC00?style=for-the-badge&logo=sage&logoColor=white)
-![Dynamics](https://img.shields.io/badge/Dynamics-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![NAV](https://img.shields.io/badge/NAV-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### AI & Automation
-![Claude Code](https://img.shields.io/badge/Claude%20Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Anthropic API](https://img.shields.io/badge/Anthropic%20API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Tools & Infrastructure
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![IIS](https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-<br/>
-
-## What I Do
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-### ERP Delivery & Integration
-- Lead **end-to-end ERP implementations** across Sage 300, X3, Dynamics, and NAV
-- Build **real-time sync pipelines** — Shopify, Asana, Pemo, Zoho CRM into Sage backends
-- Develop **seller portals**, **budget tools**, and **vendor-customer reconciliation engines**
-- Deploy **branded SSRS reporting suites** across multi-company, multi-region setups
-- Architect **biometric attendance systems** with cross-server sync and automated dashboards
+## Profile
 
-</td>
-<td width="50%" valign="top">
+I lead enterprise delivery across ERP, integrations, reporting, cloud, and infrastructure.
 
-### API Development & Cloud
-- Design and ship **REST APIs** on AWS — Lambda, API Gateway, DynamoDB, S3, CloudFront
-- Build **serverless invoice sync**, **ledger APIs**, and **inventory endpoints** for enterprise clients
-- Create **Terraform-managed infrastructure** with multi-environment deployment (dev/UAT/prod)
-- Write **zero-touch deployment scripts** — one-liner installs from S3/CloudFront
+My core lane is taking messy, high-stakes business processes and turning them into systems that are clear, reliable, and usable - from the first workshop to the final deployment.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Across 100+ projects, I have worked on:
 
-### AI & Automation
-- Leverage **Claude Code** daily for AI-assisted development, code review, and rapid prototyping
-- Build **Python & PowerShell automation** — tender scanners, file sync, safety stock alerts, VPN fixes
-- Generate **multilingual TTS voiceovers** and **dynamic content** with AI pipelines
-- Automate **database audits**, **schema diagnostics**, and **backup orchestration**
+- Sage 300, Sage X3, Dynamics, and NAV programs
+- API and sync work around orders, invoices, customers, and master data
+- SQL Server and SSRS dashboards for commercial and operational teams
+- AWS-backed portals, automation layers, and serverless APIs
+- Windows Server, IIS, VPN, firewall, and deployment support
+- client guides, health checks, recovery work, and adoption support
+
+If the job needs someone who can understand the business, shape the system, drive the delivery, and still get hands-on when it matters, that is the lane I work in.
 
 </td>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-### Infrastructure & Open Source
-- Architect **Windows Server environments** — SSRS over SSL, IIS, firewall rules, RDP hardening
-- Configure **enterprise VPN** (Cisco, OpenVPN Cloud) with session monitoring and compliance reports
-- Ship **open-source tools** — Caffeinator (sleep prevention), Windows11-Optimizer, YTune
-- Build **system utilities** with clean UIs, tray integration, and Win32 power APIs
+## Snapshot
+
+- 15+ years in ERP and enterprise delivery
+- 100+ projects across client, internal, and product work
+- Based in Dubai, working across MEA and beyond
+- Strong in SQL Server, SSRS, Python, PowerShell, AWS, and Windows Server
+- Delivery style: business-aware, technically hands-on, execution-focused
+
+### Current Focus
+
+- ERP modernization
+- API design and system integration
+- reporting and data visibility
+- automation and AI-assisted delivery
+- infrastructure reliability
 
 </td>
 </tr>
 </table>
 
-<br/>
+> Most enterprise delivery work lives in private repos, client servers, and protected environments, so the public GitHub view shows the builder side of my work more than the full delivery footprint.
 
-## Featured Projects
+## Operating Areas
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ERP Delivery
+
+- end-to-end implementation leadership
+- fit-gap analysis and process translation
+- project recovery and ERP health checks
+- stakeholder alignment from presales to go-live
+
+</td>
+<td width="50%" valign="top">
+
+### Integrations and APIs
+
+- Sage-centered integration design
+- REST APIs and sync engines
+- customer, order, invoice, and inventory flows
+- AWS Lambda, API Gateway, DynamoDB, S3, and CloudFront
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Reporting and Data
+
+- SQL Server reporting layers
+- branded SSRS portals and dashboards
+- executive sales and finance reporting
+- documentation and guides teams can actually use
+
+</td>
+<td width="50%" valign="top">
+
+### Infrastructure and Automation
+
+- Windows Server, IIS, VPN, firewall, and RDP hardening
+- zero-touch deployments and admin tooling
+- PowerShell and Python automation
+- AI-assisted workflows where they genuinely improve delivery
+
+</td>
+</tr>
+</table>
+
+## Signature Work
+
+- Delivered ERP programs and integration tracks around Sage 300 and Sage X3, including customer, order, invoice, and reporting flows.
+- Built client-facing portals, budget tools, dashboards, and reconciliation workflows on top of enterprise data.
+- Designed branded SSRS reporting experiences and SQL-backed commercial dashboards for leadership visibility.
+- Shipped AWS-backed APIs and sync services that expose ERP data without forcing teams to live inside the ERP.
+- Produced operational guides, recovery plans, and health-check material that help delivery survive beyond go-live.
+- Built public tools like Caffeinator and Windows11-Optimizer, which show the same delivery mindset in product form.
+
+## Toolbox
+
+<div align="center">
+
+![Sage 300](https://img.shields.io/badge/Sage%20300-00A651?style=for-the-badge&logo=sage&logoColor=white)
+![Sage X3](https://img.shields.io/badge/Sage%20X3-00A651?style=for-the-badge&logo=sage&logoColor=white)
+![Dynamics](https://img.shields.io/badge/Dynamics-0A6ED1?style=for-the-badge&logo=microsoft&logoColor=white)
+![NAV](https://img.shields.io/badge/NAV-0A6ED1?style=for-the-badge&logo=microsoft&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-B42318?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SSRS](https://img.shields.io/badge/SSRS-7A1F1F?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-1F6FEB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-2563EB?style=for-the-badge&logo=powershell&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-EC4899?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0F6CBD?style=for-the-badge&logo=windows&logoColor=white)
+![IIS](https://img.shields.io/badge/IIS-0F6CBD?style=for-the-badge&logo=windows&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111827?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7C3AED?style=for-the-badge&logo=kotlin&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-111827?style=for-the-badge&logo=anthropic&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-Building-0F766E?style=for-the-badge)
+
+</div>
+
+## Featured Builds
 
 <div align="center">
 
 <a href="https://github.com/Ublaze/Caffeinator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ublaze&repo=Caffeinator&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ublaze&repo=Caffeinator&bg_color=0B1F33&border_color=123A63&title_color=D7A94B&icon_color=93C5FD&text_color=E2E8F0" />
 </a>
 <a href="https://github.com/Ublaze/Windows11-Optimizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ublaze&repo=Windows11-Optimizer&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ublaze&repo=Windows11-Optimizer&bg_color=0B1F33&border_color=123A63&title_color=D7A94B&icon_color=93C5FD&text_color=E2E8F0" />
+</a>
+
+<br />
+
+<a href="https://github.com/Ublaze/YTune">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ublaze&repo=YTune&bg_color=0B1F33&border_color=123A63&title_color=D7A94B&icon_color=93C5FD&text_color=E2E8F0" />
 </a>
 
 </div>
 
-<br/>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/-Caffeinator-58a6ff?style=flat-square" /><br/>
-<sub><b>Windows sleep prevention</b></sub><br/>
-<sub>Process-aware, per-app rules, system tray, Win32 power APIs</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/-Windows11 Optimizer-58a6ff?style=flat-square" /><br/>
-<sub><b>System optimization</b></sub><br/>
-<sub>Debloat, privacy hardening, performance tuning — one script</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/-YTune-58a6ff?style=flat-square" /><br/>
-<sub><b>Android YouTube Music</b></sub><br/>
-<sub>Kotlin, Google Sign-In, playlist sync</sub>
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-## GitHub Analytics
+## GitHub Snapshot
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ublaze&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&hide_border=false&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ublaze&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&hide_border=false&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ublaze&show_icons=true&bg_color=0B1F33&border_color=123A63&title_color=D7A94B&icon_color=93C5FD&text_color=E2E8F0&count_private=true" />
 
-<br/><br/>
+<br /><br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ublaze&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" width="700" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ublaze&bg_color=0B1F33&color=E2E8F0&line=1B75D0&point=D7A94B&area_color=123A63&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
 
 </div>
 
-<br/>
-
-## Activity Graph
+## Connect
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ublaze&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1f6feb&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### Let's Connect
-
-<a href="https://www.linkedin.com/in/uwaissalam/">
-  <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uwaissalam/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ublaze)
+[![Email](https://img.shields.io/badge/Email-ublaze%40gmail.com-B91C1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ublaze@gmail.com)
 
 </div>
