@@ -1,0 +1,61 @@
+<svg width="1280" height="470" viewBox="0 0 1280 470" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgw" x1="0" y1="0" x2="1280" y2="470" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="0.55" stop-color="#0F1D33"/>
+      <stop offset="1" stop-color="#0A2540"/>
+    </linearGradient>
+    <linearGradient id="goldlinew" x1="0" y1="0" x2="220" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#D7A94B"/>
+      <stop offset="1" stop-color="#D7A94B" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="gloww" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#0F6CBD" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#0F6CBD" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="470" rx="24" fill="url(#bgw)"/>
+  <circle cx="1180" cy="60" r="230" fill="url(#gloww)"/>
+
+  <rect x="80" y="48" width="8" height="52" rx="4" fill="#D7A94B"/>
+  <text x="108" y="86" fill="#D7A94B" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="5">WHAT I DO</text>
+  <rect x="108" y="104" width="220" height="3" rx="1.5" fill="url(#goldlinew)"/>
+  <text x="640" y="86" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="500">Most of my enterprise delivery lives in private repos and client environments —</text>
+  <text x="640" y="86" dy="22" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="500">this profile shows the builder side of that work.</text>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g>
+      <rect x="80" y="140" width="550" height="140" rx="18" fill="#0D1828" stroke="#23415F"/>
+      <rect x="80" y="140" width="6" height="140" rx="3" fill="#D7A94B"/>
+      <text x="112" y="180" fill="#F8FAFC" font-size="21" font-weight="700">ERP Delivery</text>
+      <text x="112" y="212" fill="#94A3B8" font-size="15" font-weight="500">Implementations from discovery to go-live &#183; fit-gap and</text>
+      <text x="112" y="234" fill="#94A3B8" font-size="15" font-weight="500">execution planning &#183; recovery of at-risk projects &#183; ERP</text>
+      <text x="112" y="256" fill="#94A3B8" font-size="15" font-weight="500">health checks across Sage 300 and Sage X3.</text>
+    </g>
+    <g>
+      <rect x="650" y="140" width="550" height="140" rx="18" fill="#0D1828" stroke="#23415F"/>
+      <rect x="650" y="140" width="6" height="140" rx="3" fill="#0F6CBD"/>
+      <text x="682" y="180" fill="#F8FAFC" font-size="21" font-weight="700">Integrations &amp; APIs</text>
+      <text x="682" y="212" fill="#94A3B8" font-size="15" font-weight="500">Sage-centered integration flows &#183; REST APIs and sync</text>
+      <text x="682" y="234" fill="#94A3B8" font-size="15" font-weight="500">engines &#183; ERP data exposed to portals and partner systems</text>
+      <text x="682" y="256" fill="#94A3B8" font-size="15" font-weight="500">across Lambda, API Gateway, DynamoDB, S3, CloudFront.</text>
+    </g>
+    <g>
+      <rect x="80" y="300" width="550" height="140" rx="18" fill="#0D1828" stroke="#23415F"/>
+      <rect x="80" y="300" width="6" height="140" rx="3" fill="#0F6CBD"/>
+      <text x="112" y="340" fill="#F8FAFC" font-size="21" font-weight="700">Reporting &amp; Data</text>
+      <text x="112" y="372" fill="#94A3B8" font-size="15" font-weight="500">SQL Server reporting layers &#183; branded SSRS portals and</text>
+      <text x="112" y="394" fill="#94A3B8" font-size="15" font-weight="500">dashboards &#183; commercial visibility for leadership &#183; guides</text>
+      <text x="112" y="416" fill="#94A3B8" font-size="15" font-weight="500">and documentation people actually follow.</text>
+    </g>
+    <g>
+      <rect x="650" y="300" width="550" height="140" rx="18" fill="#0D1828" stroke="#23415F"/>
+      <rect x="650" y="300" width="6" height="140" rx="3" fill="#D7A94B"/>
+      <text x="682" y="340" fill="#F8FAFC" font-size="21" font-weight="700">Infrastructure &amp; Automation</text>
+      <text x="682" y="372" fill="#94A3B8" font-size="15" font-weight="500">Windows Server, IIS, VPN, and remote access setups &#183;</text>
+      <text x="682" y="394" fill="#94A3B8" font-size="15" font-weight="500">PowerShell and Python automation &#183; hardened deployment</text>
+      <text x="682" y="416" fill="#94A3B8" font-size="15" font-weight="500">flows &#183; AI-assisted workflows where they add real speed.</text>
+    </g>
+  </g>
+</svg>
