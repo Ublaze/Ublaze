@@ -72,6 +72,21 @@
 | [Caffeinator](https://github.com/Ublaze/Caffeinator) | Windows utility design, native API thinking, product polish |
 | [Windows11-Optimizer](https://github.com/Ublaze/Windows11-Optimizer) | PowerShell automation, systems thinking, safe optimization |
 | [YTune](https://github.com/Ublaze/YTune) | Product building beyond ERP, mobile and Kotlin work |
+| [github-readme-generator](https://github.com/Ublaze/github-readme-generator) | Claude Code skill that generates polished READMEs with banners, badges, and diagrams |
+| [github-showcase](https://github.com/Ublaze/github-showcase) | Claude Code skill that turns any GitHub project into styled social posts as Word documents |
+
+## GitHub at a Glance
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ublaze&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Uwais's GitHub stats" height="165" />
+<img src="https://streak-stats.demolab.com?user=Ublaze&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" height="165" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ublaze&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="130" />
+
+</div>
 
 ## Toolbox
 
