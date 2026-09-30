@@ -65,6 +65,12 @@
 - Produced operational guides, recovery material, and structured delivery documentation.
 - Built public software products that reflect the same delivery mindset in product form.
 
+## Achievements
+
+<div align="center">
+<img src="./assets/achievements.svg" alt="Achievements and highlights" width="100%" />
+</div>
+
 ## Public Builds
 
 | Project | What It Shows |
@@ -104,11 +110,17 @@
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![API Gateway](https://img.shields.io/badge/API%20Gateway-EC4899?style=for-the-badge&logo=amazonapigateway&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![S3](https://img.shields.io/badge/S3-E15343?style=for-the-badge&logo=amazons3&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazoncloudfront&logoColor=white)
 
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0F6CBD?style=for-the-badge&logo=windows&logoColor=white)
 ![IIS](https://img.shields.io/badge/IIS-0F6CBD?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111827?style=for-the-badge&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7C3AED?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-111827?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
@@ -119,5 +131,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uwaissalam/)
 [![Email](https://img.shields.io/badge/Email-salamuwais%40gmail.com-B91C1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salamuwais@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=Ublaze&color=0F6CBD&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>

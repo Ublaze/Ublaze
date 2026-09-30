@@ -1,0 +1,57 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bga" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="0.55" stop-color="#0F1D33"/>
+      <stop offset="1" stop-color="#0A2540"/>
+    </linearGradient>
+    <linearGradient id="goldlinea" x1="0" y1="0" x2="260" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#D7A94B"/>
+      <stop offset="1" stop-color="#D7A94B" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowa" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#0F6CBD" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#0F6CBD" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="420" rx="24" fill="url(#bga)"/>
+  <circle cx="70" cy="60" r="220" fill="url(#glowa)"/>
+
+  <rect x="80" y="48" width="8" height="52" rx="4" fill="#D7A94B"/>
+  <text x="108" y="86" fill="#D7A94B" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="5">ACHIEVEMENTS &amp; HIGHLIGHTS</text>
+  <rect x="108" y="104" width="260" height="3" rx="1.5" fill="url(#goldlinea)"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g>
+      <rect x="80" y="130" width="360" height="112" rx="18" fill="#0D1828" stroke="#23415F"/>
+      <text x="112" y="188" fill="#D7A94B" font-size="40" font-weight="800">15+</text>
+      <text x="112" y="220" fill="#E2E8F0" font-size="16" font-weight="600">Years of enterprise delivery</text>
+    </g>
+    <g>
+      <rect x="460" y="130" width="360" height="112" rx="18" fill="#0D1828" stroke="#23415F"/>
+      <text x="492" y="188" fill="#D7A94B" font-size="40" font-weight="800">100+</text>
+      <text x="492" y="220" fill="#E2E8F0" font-size="16" font-weight="600">Projects delivered end-to-end</text>
+    </g>
+    <g>
+      <rect x="840" y="130" width="360" height="112" rx="18" fill="#0D1828" stroke="#23415F"/>
+      <text x="872" y="188" fill="#D7A94B" font-size="40" font-weight="800">ERP</text>
+      <text x="872" y="220" fill="#E2E8F0" font-size="16" font-weight="600">At-risk projects recovered</text>
+    </g>
+    <g>
+      <rect x="80" y="262" width="360" height="112" rx="18" fill="#0D1828" stroke="#23415F"/>
+      <text x="112" y="320" fill="#7DD3FC" font-size="40" font-weight="800">Sage</text>
+      <text x="112" y="352" fill="#E2E8F0" font-size="16" font-weight="600">300 &amp; X3 programs delivered</text>
+    </g>
+    <g>
+      <rect x="460" y="262" width="360" height="112" rx="18" fill="#0D1828" stroke="#23415F"/>
+      <text x="492" y="320" fill="#7DD3FC" font-size="40" font-weight="800">AWS</text>
+      <text x="492" y="352" fill="#E2E8F0" font-size="16" font-weight="600">APIs &amp; sync engines in production</text>
+    </g>
+    <g>
+      <rect x="840" y="262" width="360" height="112" rx="18" fill="#0D1828" stroke="#23415F"/>
+      <text x="872" y="320" fill="#7DD3FC" font-size="40" font-weight="800">5+</text>
+      <text x="872" y="352" fill="#E2E8F0" font-size="16" font-weight="600">Public products &amp; tools shipped</text>
+    </g>
+  </g>
+</svg>
