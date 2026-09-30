@@ -79,12 +79,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ublaze&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Uwais's GitHub stats" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ublaze&theme=tokyonight" alt="Contribution profile summary" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ublaze&theme=tokyonight" alt="GitHub stats" height="165" />
 <img src="https://streak-stats.demolab.com?user=Ublaze&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" height="165" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ublaze&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="130" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ublaze&theme=tokyonight" alt="Most used languages" height="165" />
 
 </div>
 
