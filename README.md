@@ -32,10 +32,12 @@
 
 ![Sage 300](https://img.shields.io/badge/Sage%20300-0F172A?style=for-the-badge&logo=sage&logoColor=white)
 ![Sage X3](https://img.shields.io/badge/Sage%20X3-0F172A?style=for-the-badge&logo=sage&logoColor=white)
-![Dynamics](https://img.shields.io/badge/Dynamics-0F172A?style=for-the-badge&logo=microsoft&logoColor=white)
-![NAV](https://img.shields.io/badge/NAV-0F172A?style=for-the-badge&logo=microsoft&logoColor=white)
+![NetSuite](https://img.shields.io/badge/NetSuite-0F172A?style=for-the-badge)
+![Dynamics NAV](https://img.shields.io/badge/Dynamics%20NAV-0F172A?style=for-the-badge&logo=microsoft&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-0F172A?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SSRS](https://img.shields.io/badge/SSRS-0F172A?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Crystal Reports](https://img.shields.io/badge/Crystal%20Reports-0F172A?style=for-the-badge)
+![MS Project](https://img.shields.io/badge/MS%20Project-0F172A?style=for-the-badge)
 
 ![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-0F172A?style=for-the-badge&logo=powershell&logoColor=white)

@@ -40,18 +40,18 @@
     </g>
     <g>
       <rect x="80" y="262" width="360" height="112" rx="18" fill="#0D1828" stroke="#23415F"/>
-      <text x="112" y="320" fill="#7DD3FC" font-size="40" font-weight="800">Sage</text>
-      <text x="112" y="352" fill="#E2E8F0" font-size="16" font-weight="600">300 &amp; X3 programs delivered</text>
+      <text x="112" y="320" fill="#7DD3FC" font-size="32" font-weight="800">Sage X3 Certified</text>
+      <text x="112" y="352" fill="#E2E8F0" font-size="16" font-weight="600">Financial Application Consultant</text>
     </g>
     <g>
       <rect x="460" y="262" width="360" height="112" rx="18" fill="#0D1828" stroke="#23415F"/>
-      <text x="492" y="320" fill="#7DD3FC" font-size="40" font-weight="800">AWS</text>
-      <text x="492" y="352" fill="#E2E8F0" font-size="16" font-weight="600">APIs &amp; sync engines in production</text>
+      <text x="492" y="320" fill="#7DD3FC" font-size="32" font-weight="800">Gold Medal</text>
+      <text x="492" y="352" fill="#E2E8F0" font-size="16" font-weight="600">BTEC HND Computing, Batch Top</text>
     </g>
     <g>
       <rect x="840" y="262" width="360" height="112" rx="18" fill="#0D1828" stroke="#23415F"/>
-      <text x="872" y="320" fill="#7DD3FC" font-size="40" font-weight="800">5+</text>
-      <text x="872" y="352" fill="#E2E8F0" font-size="16" font-weight="600">Public products &amp; tools shipped</text>
+      <text x="872" y="320" fill="#7DD3FC" font-size="40" font-weight="800">AWS</text>
+      <text x="872" y="352" fill="#E2E8F0" font-size="16" font-weight="600">APIs &amp; sync engines in production</text>
     </g>
   </g>
 </svg>
