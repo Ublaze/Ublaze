@@ -1,89 +1,36 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" alt="Uwais Salam profile banner" width="100%" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg"><img src="./assets/hero-light.svg" alt="Uwais Salam — enterprise delivery lead, Dubai. 2012 Zillione (Dynamics NAV, NetSuite); 2017 RFR Group (Sage 300, Sage X3); Sage X3 Certified Financial Application Consultant; BTEC HND Computing Gold Medal; delivery across UAE, Sri Lanka, Maldives and Fiji. 15+ years, 100+ projects, 4 countries." width="100%"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/practice-dark.svg"><img src="./assets/practice-light.svg" alt="Chart of accounts — ERP delivery, integrations and APIs, reporting and data, infrastructure and automation" width="100%"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/head-builds-dark.svg"><img src="./assets/head-builds-light.svg" alt="Schedule B — public builds" width="100%"></picture>
+
+<p>
+<a href="https://github.com/Ublaze/Quran-FlipBoard-TV"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v-quran-flipboard-tv-dark.svg"><img src="./assets/v-quran-flipboard-tv-light.svg" alt="Quran-FlipBoard-TV — Quran verses on a retro split-flap board for LG webOS TVs, an ambient display." width="49%"></picture></a> <a href="https://github.com/Ublaze/Caffeinator"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v-caffeinator-dark.svg"><img src="./assets/v-caffeinator-light.svg" alt="Caffeinator — Process-aware Windows sleep prevention with per-app rules and a tray UI." width="49%"></picture></a>
+<a href="https://github.com/Ublaze/Windows11-Optimizer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v-windows11-optimizer-dark.svg"><img src="./assets/v-windows11-optimizer-light.svg" alt="Windows11-Optimizer — One safe PowerShell script to strip bloat and tune Windows 11." width="49%"></picture></a> <a href="https://github.com/Ublaze/YTune"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v-ytune-dark.svg"><img src="./assets/v-ytune-light.svg" alt="YTune — An Android YouTube Music client with Google Sign-In and playlist sync." width="49%"></picture></a>
+<a href="https://github.com/Ublaze/github-readme-generator"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v-github-readme-generator-dark.svg"><img src="./assets/v-github-readme-generator-light.svg" alt="github-readme-generator — Claude Code skill: polished READMEs with banners, badges and diagrams." width="49%"></picture></a> <a href="https://github.com/Ublaze/github-showcase"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v-github-showcase-dark.svg"><img src="./assets/v-github-showcase-light.svg" alt="github-showcase — Claude Code skill: turns any repo into styled LinkedIn and Facebook posts." width="49%"></picture></a>
+</p>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/head-private-dark.svg"><img src="./assets/head-private-light.svg" alt="Schedule C — client engagements, names withheld" width="100%"></picture>
 
 </div>
 
-<br />
-
-<div align="center">
-<img src="./assets/what-i-do.svg" alt="ERP delivery, integrations and APIs, reporting and data, infrastructure and automation" width="100%" />
-</div>
-
-## Achievements
-
-<div align="center">
-<img src="./assets/achievements.svg" alt="Achievements and highlights" width="100%" />
-</div>
-
-## Public Builds
-
-| Project | What It Shows |
-| --- | --- |
-| [Caffeinator](https://github.com/Ublaze/Caffeinator) | Windows utility design, native API thinking, product polish |
-| [Windows11-Optimizer](https://github.com/Ublaze/Windows11-Optimizer) | PowerShell automation, systems thinking, safe optimization |
-| [YTune](https://github.com/Ublaze/YTune) | Product building beyond ERP, mobile and Kotlin work |
-| [github-readme-generator](https://github.com/Ublaze/github-readme-generator) | Claude Code skill that generates polished READMEs with banners, badges, and diagrams |
-| [github-showcase](https://github.com/Ublaze/github-showcase) | Claude Code skill that turns any GitHub project into styled social posts as Word documents |
-
-## Private Delivery Snapshot
-
-Client and product details stay confidential — this is the shape of the work, not the names.
-
-| Area | What It Involved |
-| --- | --- |
-| Retail ERP integration | Push APIs, DynamoDB → SQL staging sync, and SSRS reporting for a retail group |
-| Supplier & customer portal | TypeScript portal syncing supplier/customer data with ERP |
-| Ticketing platform | Full rebuild of a commercial ticketing platform (TypeScript) |
-| UAE e-invoicing compliance | Client registration and onboarding automation (Python) |
-| Document workflows | Scanning, processing, and handover-analysis tooling (Python/PHP) |
-| HR solutions | HR/payroll product delivery and customization |
-| Internal ops tooling | Meeting, delivery-tracking, and knowledge-hub systems for a consulting group |
-| Zoho integration | Portal work on top of Zoho |
-| AMC tracking | Annual maintenance contract tracking system |
-| AI workflow tooling | Session-persistence MCP server for AI-assisted delivery |
-
-## Toolbox
+| Ref | Engagement | Work |
+| :-- | :-- | :-- |
+| `C-01` | Retail group, ERP integration | Push APIs, DynamoDB → SQL staging sync, SSRS reporting |
+| `C-02` | Supplier & customer portal | TypeScript portal kept in sync with the ERP |
+| `C-03` | Ticketing platform | Full rebuild of a commercial ticketing system |
+| `C-04` | UAE e-invoicing | Client registration and onboarding automation |
+| `C-05` | Multi-company reporting | Branded SSRS packs reconciled line-by-line to the general ledger |
+| `C-06` | Backup & monitoring | SQL → cloud backups with a live status dashboard and alerting |
 
 <div align="center">
 
-![Sage 300](https://img.shields.io/badge/Sage%20300-0F172A?style=for-the-badge&logo=sage&logoColor=white)
-![Sage X3](https://img.shields.io/badge/Sage%20X3-0F172A?style=for-the-badge&logo=sage&logoColor=white)
-![NetSuite](https://img.shields.io/badge/NetSuite-0F172A?style=for-the-badge)
-![Dynamics NAV](https://img.shields.io/badge/Dynamics%20NAV-0F172A?style=for-the-badge&logo=microsoft&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-0F172A?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SSRS](https://img.shields.io/badge/SSRS-0F172A?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Crystal Reports](https://img.shields.io/badge/Crystal%20Reports-0F172A?style=for-the-badge)
-![MS Project](https://img.shields.io/badge/MS%20Project-0F172A?style=for-the-badge)
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/toolbox-dark.svg"><img src="./assets/toolbox-light.svg" alt="Trial balance — Erp: Sage 300, Sage X3, NetSuite OneWorld, Dynamics NAV, OpenAir, MS Project Server; Data & Reporting: SQL Server, SSRS, Crystal Reports, Python, PowerShell; Cloud & Infra: AWS Lambda, API Gateway, DynamoDB, S3 · CloudFront, Windows Server, IIS; Build: Git · GitHub Actions, Kotlin · Android, Postman, VS Code, Claude Code" width="100%"></picture>
 
-![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-0F172A?style=for-the-badge&logo=powershell&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-0F172A?style=for-the-badge&logo=awslambda&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API%20Gateway-0F172A?style=for-the-badge&logo=amazonapigateway&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-0F172A?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![S3](https://img.shields.io/badge/S3-0F172A?style=for-the-badge&logo=amazons3&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-0F172A?style=for-the-badge&logo=amazoncloudfront&logoColor=white)
+<br>
 
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0F172A?style=for-the-badge&logo=windows&logoColor=white)
-![IIS](https://img.shields.io/badge/IIS-0F172A?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0F172A?style=for-the-badge&logo=githubactions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0F172A?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-0F172A?style=for-the-badge&logo=android&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-0F172A?style=for-the-badge&logo=anthropic&logoColor=white)
-
-</div>
-
-## Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uwaissalam/)
-[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salamuwais@gmail.com)
-
-![Profile views](https://komarev.com/ghpvc/?username=Ublaze&color=0F172A&style=for-the-badge&label=PROFILE+VIEWS)
+[LinkedIn](https://www.linkedin.com/in/uwaissalam/) &nbsp;·&nbsp; [salamuwais@gmail.com](mailto:salamuwais@gmail.com) &nbsp;·&nbsp; <img src="https://komarev.com/ghpvc/?username=Ublaze&style=flat-square&color=B08A3E&label=folio+views" alt="profile views" align="center">
 
 </div>
