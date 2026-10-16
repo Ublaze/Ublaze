@@ -325,6 +325,7 @@ PROJECTS = [  # repo, one-liner, account (language)
     ("YTune", "An Android YouTube Music client with Google Sign-In and playlist sync.", "Kotlin"),
     ("github-readme-generator", "Claude Code skill: polished READMEs with banners, badges and diagrams.", "Claude skill"),
     ("github-showcase", "Claude Code skill: turns any repo into styled LinkedIn and Facebook posts.", "Python"),
+    ("VHD2Wasabi", "Live server disks to Wasabi S3: VSS capture streamed through 7-Zip, no local staging.", "Python"),
 ]
 VW, VH, STUB = 600, 200, 150
 
