@@ -13,11 +13,13 @@ I take Sage X3 and Sage 300 projects from discovery to go-live, then build the i
 ---
 
 **15+ years** in ERP delivery · **100+ projects** · **4 countries**: UAE, Sri Lanka, Maldives, Fiji<br>
-Sage X3 Certified Financial Application Consultant · BTEC HND Computing, Gold Medal
+Sage X3 Certified Financial Application Consultant · BTEC HND Computing, Gold Medal (batch top)<br>
+Industries: financial services, manufacturing, HR · Languages: English, Tamil, Sinhala
 
 ### What I work on
 
 - **ERP delivery:** discovery, fit-gap and go-live planning, recovering at-risk projects, system health checks
+- **Project management:** pre-sales and RFP responses, statements of work, scope, budget and milestone sign-off
 - **Integrations and APIs:** REST APIs and sync engines between the ERP and portals, marketplaces and partners
 - **Reporting:** SQL Server reporting layers and SSRS report packs reconciled to the general ledger
 - **Infrastructure:** Windows Server, IIS, VPN and backup pipelines, automated and monitored
