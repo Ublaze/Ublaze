@@ -27,8 +27,7 @@ Zillione 2012-2017; RFR Group Dubai 2017-present; delivery across UAE / Sri Lank
 
 - Pin: VHD2Wasabi, Caffeinator, Windows11-Optimizer, github-readme-generator, github-showcase.
 - Avatar: a real photo or plain initials (GitHub has no API for avatars).
-- Display name / bio / location / company: `gh auth refresh -h github.com -s user`, then
-  `gh api -X PATCH user -f name="Uwais Salam" -f location="Dubai, UAE" -f company="RFR Group"`.
+- Name / bio / company / location / website were set 2026-10-20 via `gh api -X PATCH user` (token has `user` scope now).
 
 ## Previewing
 
